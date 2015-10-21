@@ -3,4 +3,4 @@ Table of Contents
 
 Javascript
 ----------
-- [Web Scraping](web_scraping)
+- [Web Scraping](javascript/web_scraping)
