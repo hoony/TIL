@@ -5,7 +5,7 @@
 - [Web Scraping](/javascript/web-scraping)
 
 ## Front End
-- [Next.js](/nextjs)
+- [Next.js](/front-end/nextjs)
 
 ## Docker
 
