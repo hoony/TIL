@@ -11,6 +11,10 @@
 
 - [commands](/docker/commands)
 
+## Tools
+
+- [Bash](/bash/tips)
+
 ## Cryptography
 
 - [Digital Signature](/cryptography/digital-signature)
