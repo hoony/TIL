@@ -1,7 +1,13 @@
-## remove whitespaces
+## trim
 ```swift
 var str = "AB CD EF"
 str = str.trimmingCharacters(in: .whitespaces)
+```
+
+## remove all spaces
+```swift
+var str = "ab cd ed"
+str = str.replacingOccurrences(of: " ", with: "")
 ```
 
 ## capitalize and reverse
