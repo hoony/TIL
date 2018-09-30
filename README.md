@@ -1,6 +1,6 @@
 # Today I Learned
 
-JayJin이 오늘 새로 배운 것을 다음의 규칙으로 commit 합니다. [thoughtbot til 참고](https://github.com/thoughtbot/til)
+오늘 새로 배운 것을 다음의 규칙으로 commit 합니다. [thoughtbot til 참고](https://github.com/thoughtbot/til)
 
 ## 작성 규칙
 
@@ -36,3 +36,6 @@ $ ln -s path/to/this_local_repo til.wiki
 
 ### Anvil 설치
 GUI pow 관리툴 Anvil [http://anvilformac.com/](http://anvilformac.com/)
+
+### Credit
+- [JayJin](https://github.com/milooy/TIL)
